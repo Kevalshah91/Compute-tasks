@@ -1,0 +1,2 @@
+This task mainly focuses on the Grid Search CV , Linear Support Vector Classifier (SVC), SVC and its kernels
+SVR and its kernels
